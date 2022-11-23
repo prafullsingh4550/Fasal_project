@@ -11,6 +11,15 @@ A solo project from Scrimba (all code is from scratch). The only resource provid
 -   Index = search page. Calls to OMDB API with the title searched for and displays search results.
 -   Button to "add to watchlist" which saves that data to local storage.
 -   Watchlist.html loads and displays data from local storage.
+-   Login Logout Pages are also there
+
+
+#  Steps to Run a Project
+
+-  Install vs code or any code editor 
+-  Run index. html 
+-  you can search desirable movie in the search option 
+-  If you want you can add movies to the watchlist 
 
 
 
